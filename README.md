@@ -3,11 +3,11 @@ Objective:
 This Power BI dashboard provides comprehansive insights into store sales performance by focusing on time series analysis and accurate sales forecasting. The dashboard offers valuable information to drive informed business decisions.
 
 Features:
-Interactive Visualisations : Enables users to interactively explore sales data and forecsat results.
-Time Series Analysis : Utilizes historical sales data to identify trends, patterns and seasonality
-Customized Dashboard :Tailorable dashboard layout and design to meet specific requirements.
-Drill-down Capabilities : Allows users to drill down into specific time periods or product categories for detailed analysis.
-Sales Forecasting : Generates accurate sales forecasts using advanced forecasting models.
+*Interactive Visualisations : Enables users to interactively explore sales data and forecsat results.
+*Time Series Analysis : Utilizes historical sales data to identify trends, patterns and seasonality
+*Customized Dashboard :Tailorable dashboard layout and design to meet specific requirements.
+*Drill-down Capabilities : Allows users to drill down into specific time periods or product categories for detailed analysis.
+*Sales Forecasting : Generates accurate sales forecasts using advanced forecasting models.
 
 Key Insights :
 
